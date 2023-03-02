@@ -96,7 +96,7 @@ function fnTest2(){
     }
  }
 
- // CSS 선택자로 접ㄱㄴ하기
+ // CSS 선택자로 접근하기
  function fnTest6() {
     document.querySelector("#cssTest").style.border = "3px solid green";
 
